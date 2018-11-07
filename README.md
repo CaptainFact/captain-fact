@@ -18,7 +18,8 @@ This repo is a high level overview of the CaptainFact project. It holds the docu
 
 [CaptainFact](https://captainfact.io) is a collaborative, real-time fact-checking tool for YouTube videos. The website allow people to work together to confirm, refute and contextualize statements made in a video. A [browser extension](https://captainfact.io/extension) then brings down the community’s sources directly on the content by injecting them into YouTube’s player ([preview](https://www.youtube.com/watch?v=4-_nnwgqw9c)).
 
-![Website preview](https://screenshotscdn.firefoxusercontent.com/images/33f2e950-7237-4dee-b3db-1e351fe6c473.png)
+![Website preview](https://screenshotscdn.firefoxusercontent.com/images/2317feac-3fcf-41f7-924c-1e4846d3df1f.png)
+
 ![Youtube integration preview](https://raw.githubusercontent.com/CaptainFact/captain-fact-extension/staging/misc/demo-youtube.jpg)
 
 The project is **non-profit** (we accept donations through [OpenCollective](https://opencollective.com/captainfact_io)). All the code is [open-source](https://github.com/CaptainFact). 
