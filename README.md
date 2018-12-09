@@ -12,7 +12,19 @@
 </p>
 <hr/>
 <br/>
-This repo is a high level overview of the CaptainFact project. It holds the documentation, wikis and community discutions.
+
+This repo is a high level overview of the CaptainFact project. It holds the
+documentation, issues, Wiki and community discutions.
+
+# Quick menu
+
+- Issues: https://github.com/CaptainFact/captain-fact/issues
+- Wiki: https://github.com/CaptainFact/captain-fact/wiki
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
+- [captain-fact-api](https://github.com/CaptainFact/captain-fact-api): Elixir / Phoenix / Absinthe backend
+- [captain-fact-frontend](https://github.com/CaptainFact/captain-fact-frontend): React frontend
+- [captain-fact-extension](https://github.com/CaptainFact/captain-fact-extension): Browser extension, built with React and WebExtensions
+- [captain-fact-overlay-injector](https://github.com/CaptainFact/captain-fact-injector): Video overlay injector, built with Preact
 
 # Presentation
 
@@ -22,21 +34,10 @@ This repo is a high level overview of the CaptainFact project. It holds the docu
 
 ![Youtube integration preview](https://raw.githubusercontent.com/CaptainFact/captain-fact-extension/staging/misc/demo-youtube.jpg)
 
-The project is **non-profit** (we accept donations through [OpenCollective](https://opencollective.com/captainfact_io)). All the code is [open-source](https://github.com/CaptainFact). 
+The project is **non-profit** (we accept donations through [OpenCollective](https://opencollective.com/captainfact_io)). All the code is [open-source](https://github.com/CaptainFact).
 
-Openness, factuality, transparancy and gentleness are our core values.
-
-# Repos
-
-* [captain-fact-api](https://github.com/CaptainFact/captain-fact-api): Elixir / Phoenix / Absinthe backend
-* [captain-fact-frontend](https://github.com/CaptainFact/captain-fact-frontend): React frontend
-* [captain-fact-extension](https://github.com/CaptainFact/captain-fact-extension): Browser extension, built with React and WebExtensions
-* [captain-fact-overlay-injector](https://github.com/CaptainFact/captain-fact-injector): Video overlay injector, built with Preact
-
-# Feature requests
-
-[![Feature Requests](http://feathub.com/CaptainFact/captain-fact?format=svg)](http://feathub.com/CaptainFact/captain-fact)
+**Openness, factuality and transparancy are our core values.**
 
 # Other resources
 
-* [[FR] Pour mieux décider, reprenons en main l'information | Benjamin Piouffle | TEDxNouméa](https://www.youtube.com/watch?v=Qq3cars_Dxs)
+- [[FR] Pour mieux décider, reprenons en main l'information | Benjamin Piouffle | TEDxNouméa](https://www.youtube.com/watch?v=Qq3cars_Dxs)
