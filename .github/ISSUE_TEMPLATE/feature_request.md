@@ -1,6 +1,9 @@
 ---
 name: Feature request
 about: Have an idea? Share it with us and let's discuss it!
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
