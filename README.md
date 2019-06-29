@@ -14,27 +14,28 @@
 <br/>
 
 This repo is a high level overview of the CaptainFact project. It holds the
-documentation, issues, Wiki and community discutions.
+documentation, issues, wiki and community discussions.
 
 # Quick menu
 
 - Issues: https://github.com/CaptainFact/captain-fact/issues
 - Wiki: https://github.com/CaptainFact/captain-fact/wiki
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Translation: [CaptainFact on Hosted Weblate](https://hosted.weblate.org/projects/captainfact-frontend-ui/)
 - [captain-fact-api](https://github.com/CaptainFact/captain-fact-api): Elixir / Phoenix / Absinthe backend
 - [captain-fact-frontend](https://github.com/CaptainFact/captain-fact-frontend): React frontend
 - [captain-fact-extension](https://github.com/CaptainFact/captain-fact-extension): Browser extension, built with React and WebExtensions
-- [captain-fact-overlay-injector](https://github.com/CaptainFact/captain-fact-injector): Video overlay injector, built with Preact
+- [captain-fact-overlay-injector](https://github.com/CaptainFact/captain-fact-injector): Video overlay injector, built with [Preact](https://github.com/preactjs/preact)
 
 # Presentation
 
-[CaptainFact](https://captainfact.io) is a collaborative, real-time fact-checking tool for YouTube videos. The website allow people to work together to confirm, refute and contextualize statements made in a video. A [browser extension](https://captainfact.io/extension) then brings down the community’s sources directly on the content by injecting them into YouTube’s player ([preview](https://www.youtube.com/watch?v=4-_nnwgqw9c)).
+[CaptainFact](https://captainfact.io) is a collaborative, real-time fact-checking tool for YouTube videos. The website allows people to work together to confirm, refute and contextualize statements made in any video. A [browser extension](https://captainfact.io/extension) then brings down the community’s sources directly onto the content by injecting them into YouTube’s player ([preview](https://www.youtube.com/watch?v=4-_nnwgqw9c)).
 
 ![Website preview](https://screenshotscdn.firefoxusercontent.com/images/2317feac-3fcf-41f7-924c-1e4846d3df1f.png)
 
-![Youtube integration preview](https://raw.githubusercontent.com/CaptainFact/captain-fact-extension/staging/misc/demo-youtube.jpg)
+![YouTube integration preview](https://raw.githubusercontent.com/CaptainFact/captain-fact-extension/staging/misc/demo-youtube.jpg)
 
-The project is **non-profit** (we accept donations through [OpenCollective](https://opencollective.com/captainfact_io)). All the code is [open-source](https://github.com/CaptainFact).
+The project is **non-profit** (donate through [OpenCollective](https://opencollective.com/captainfact_io)). All the code is [libre software](https://github.com/CaptainFact).
 
 **Openness, factuality and transparancy are our core values.**
 
