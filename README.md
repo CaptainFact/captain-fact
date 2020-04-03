@@ -19,7 +19,7 @@ documentation, issues, wiki and community discussions.
 # Quick menu
 
 - Issues: https://github.com/CaptainFact/captain-fact/issues
-- Priority : https://github.com/orgs/CaptainFact/projects/1
+- Priority: https://github.com/orgs/CaptainFact/projects/1
 - Wiki: https://github.com/CaptainFact/captain-fact/wiki
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Translation: [CaptainFact on Hosted Weblate](https://hosted.weblate.org/projects/captainfact-frontend-ui/)
