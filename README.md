@@ -32,7 +32,7 @@ documentation, issues, wiki and community discussions.
 
 [CaptainFact](https://captainfact.io) is a collaborative, real-time fact-checking tool for YouTube videos. The website allows people to work together to confirm, refute and contextualize statements made in any video. A [browser extension](https://captainfact.io/extension) then brings down the community’s sources directly onto the content by injecting them into YouTube’s player ([preview](https://www.youtube.com/watch?v=4-_nnwgqw9c)).
 
-![Website preview](https://screenshotscdn.firefoxusercontent.com/images/2317feac-3fcf-41f7-924c-1e4846d3df1f.png)
+Fact-checking exemples: https://captainfact.io/videos
 
 ![YouTube integration preview](https://raw.githubusercontent.com/CaptainFact/captain-fact-extension/staging/misc/demo-youtube.jpg)
 
